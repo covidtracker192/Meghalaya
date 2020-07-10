@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261365138993",
+    "firebase_url": "https://meghalaya-fc95e.firebaseio.com",
+    "project_id": "meghalaya-fc95e",
+    "storage_bucket": "meghalaya-fc95e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261365138993:android:3f72a9c1f49919b3d87710",
+        "android_client_info": {
+          "package_name": "com.covid19.meghalaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261365138993-34nvr4561crk447dndlbdme402q0h4ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9-Hp4pdYg1ipu94EDUAg0cINugv2Ocmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261365138993-34nvr4561crk447dndlbdme402q0h4ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
